@@ -1,0 +1,27 @@
+{
+  "template": "/home/tshsu/Python/Cruft/cookiecutter-hipster-pypackage",
+  "commit": "f12f3e7688627ca69f21418f1d0e5f6eeeb322b9",
+  "checkout": null,
+  "context": {
+    "cookiecutter": {
+      "full_name": "Ting-Shuo Hsu",
+      "email": "tingshuo.hsu@gmail.com",
+      "github_username": "remexemer",
+      "project_name": "Homih",
+      "dist_name": "homih",
+      "package_name": "homih",
+      "project_short_description": "Python CLI utilities to drive proficiency of development flow",
+      "repository_name": "remexemer/homih",
+      "repository_url": "https://github.com/remexemer/homih",
+      "docs_url": "https://remexemer.github.io/homih/",
+      "open_source_license": "MIT license",
+      "python_version": "3.11",
+      "asyncio": "N",
+      "docs_icon": "material/library",
+      "docs_color_primary": "red",
+      "docs_color_accent": "red",
+      "_template": "/home/tshsu/Python/Cruft/cookiecutter-hipster-pypackage"
+    }
+  },
+  "directory": null
+}
