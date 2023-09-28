@@ -1,6 +1,6 @@
 {
   "template": "/home/tshsu/Python/Cruft/cookiecutter-hipster-pypackage",
-  "commit": "f12f3e7688627ca69f21418f1d0e5f6eeeb322b9",
+  "commit": "826370a0b3d41389e266ee42bd330d7c791edccd",
   "checkout": null,
   "context": {
     "cookiecutter": {
