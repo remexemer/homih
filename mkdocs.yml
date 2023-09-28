@@ -50,7 +50,7 @@ plugins:
 
 watch:
     - docs
-    - homih
+    - src/homih
 
 nav:
     - About: index.md
