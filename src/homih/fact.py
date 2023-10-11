@@ -1,7 +1,7 @@
 class InvalidFactorialError(RuntimeError):
     """Error generated if an invalid factorial input is given."""
 
-    def __init__(self, number):
+    def __init__(self, number: int) -> None:
         super().__init__(f"{number} is negative")
 
 
