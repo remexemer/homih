@@ -52,12 +52,12 @@ test-cov-xml = "pytest --cov-report=xml"
 lint = [
   "black .",
   "ruff --fix .",
-  "mypy src/homih/",
+  "mypy src tests",
 ]
 lint-check = [
   "black --check .",
   "ruff .",
-  "mypy src/homih/",
+  "mypy src tests",
 ]
 docs-serve = "mkdocs serve"
 docs-build = "mkdocs build"
