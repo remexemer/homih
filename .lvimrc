@@ -1,7 +1,12 @@
 let b:ale_linters = {'python': ['ruff']}
 let b:ale_fixers = {
       \ 'python': ['trim_whitespace', 'ruff', 'black'],
-      \ 'sh': ['shfmt', 'trim_whitespace', 'remove_trailing_lines'],
-      \ 'markdown': ['trim_whitespace', 'remove_trailing_lines'],
+      \   'c': ['clang-format'],
+      \   'cpp': ['clang-format'],
+      \   'asciidoc': ['trim_whitespace'],
+      \   'rst': ['trim_whitespace'],
+      \   'yaml': ['trim_whitespace'],
+      \   'markdown': ['trim_whitespace', 'remove_trailing_lines'],
+      \   'sh': ['shfmt', 'trim_whitespace', 'remove_trailing_lines'],
       \ }
-let b:ale_fix_on_save = 0
+let b:ale_fix_on_save = 1
