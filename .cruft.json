@@ -1,6 +1,6 @@
 {
   "template": "git@gitlab.com:tshsu/cookiecutter/cookiecutter-python.git",
-  "commit": "6cf0528a3dcffe4488a5ebc394f22d61e31c8584",
+  "commit": "a582646fd1724eb51699c4566e14ff71f142a4fd",
   "checkout": null,
   "context": {
     "cookiecutter": {
@@ -20,7 +20,7 @@
       "docs_icon": "material/library",
       "docs_color_primary": "red",
       "docs_color_accent": "red",
-      "_template": "/home/tshsu/Python/Cruft/cookiecutter-hipster-pypackage"
+      "_template": "git@gitlab.com:tshsu/cookiecutter/cookiecutter-python.git"
     }
   },
   "directory": null
