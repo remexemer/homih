@@ -1,6 +1,6 @@
 {
   "template": "git@gitlab.com:tshsu/cookiecutter/cookiecutter-python.git",
-  "commit": "c5fa91e98cf613cf747458d73aec6eb65fc25571",
+  "commit": "cc96b22b63f4c86c1601bf74224e897bc219c2aa",
   "checkout": null,
   "context": {
     "cookiecutter": {
@@ -8,6 +8,7 @@
       "email": "tingshuo.hsu@gmail.com",
       "github_username": "remexemer",
       "gitlab_username": "tshsu",
+      "gitlab_or_github": "gitlab",
       "project_name": "Homih",
       "dist_name": "homih",
       "package_name": "homih",
