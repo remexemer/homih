@@ -10,9 +10,13 @@
 
 ---
 
-**Documentation**: <a href="https://remexemer.github.io/homih/" target="_blank">https://remexemer.github.io/homih/</a>
+**GitLab**: <a href="https://gitlab.com/tshsu/python/homih" target="_blank">https://gitlab.com/tshsu/python/homih</a>
 
-**Source Code**: <a href="https://github.com/remexemer/homih" target="_blank">https://github.com/remexemer/homih</a>
+**GitLab Pages**: <a href="https://tshsu.gitlab.io/python/homih" target="_blank">https://tshsu.gitlab.io/python/homih</a>
+
+**GitHub**: <a href="https://github.com/remexemer/homih" target="_blank">https://github.com/remexemer/homih</a>
+
+**GitHub IO**: <a href="https://remexemer.github.io/homih/" target="_blank">https://remexemer.github.io/homih/</a>
 
 ---
 
