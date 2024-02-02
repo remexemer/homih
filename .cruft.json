@@ -1,6 +1,6 @@
 {
   "template": "git@gitlab.com:tshsu/cookiecutter/cookiecutter-python.git",
-  "commit": "a582646fd1724eb51699c4566e14ff71f142a4fd",
+  "commit": "71a3dfc1f32ff8da8ed29e316cf805fa6f52c7f7",
   "checkout": null,
   "context": {
     "cookiecutter": {
@@ -11,9 +11,9 @@
       "dist_name": "homih",
       "package_name": "homih",
       "project_short_description": "Python CLI utilities to drive proficiency of development flow",
-      "repository_name": "remexemer/homih",
-      "repository_url": "https://github.com/remexemer/homih",
-      "docs_url": "https://remexemer.github.io/homih/",
+      "github_repository_name": "remexemer/homih",
+      "github_repository_url": "https://github.com/remexemer/homih",
+      "github_io_url": "https://remexemer.github.io/homih/",
       "open_source_license": "MIT license",
       "python_version": "3.11",
       "asyncio": "N",
