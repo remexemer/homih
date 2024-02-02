@@ -1,5 +1,5 @@
 {
-  "template": "/home/tshsu/Python/Cruft/cookiecutter-hipster-pypackage",
+  "template": "git@gitlab.com:tshsu/cookiecutter/cookiecutter-python.git",
   "commit": "6cf0528a3dcffe4488a5ebc394f22d61e31c8584",
   "checkout": null,
   "context": {
