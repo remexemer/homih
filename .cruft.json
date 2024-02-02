@@ -1,16 +1,21 @@
 {
   "template": "git@gitlab.com:tshsu/cookiecutter/cookiecutter-python.git",
-  "commit": "71a3dfc1f32ff8da8ed29e316cf805fa6f52c7f7",
+  "commit": "c5fa91e98cf613cf747458d73aec6eb65fc25571",
   "checkout": null,
   "context": {
     "cookiecutter": {
       "full_name": "Ting-Shuo Hsu",
       "email": "tingshuo.hsu@gmail.com",
       "github_username": "remexemer",
+      "gitlab_username": "tshsu",
       "project_name": "Homih",
       "dist_name": "homih",
       "package_name": "homih",
       "project_short_description": "Python CLI utilities to drive proficiency of development flow",
+      "group_name": "python",
+      "gitlab_repository_name": "tshsu/python/homih",
+      "gitlab_repository_url": "https://gitlab.com/tshsu/python/homih",
+      "gitlab_io_url": "https://tshsu.gitlab.io/python/homih",
       "github_repository_name": "remexemer/homih",
       "github_repository_url": "https://github.com/remexemer/homih",
       "github_io_url": "https://remexemer.github.io/homih/",
