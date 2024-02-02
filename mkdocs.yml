@@ -2,8 +2,10 @@ site_name: Homih
 site_description: Python CLI utilities to drive proficiency of development flow
 site_dir: ./public
 
-repo_url: https://github.com/remexemer/homih
-repo_name: remexemer/homih
+
+repo_url: https://gitlab.com/tshsu/python/homih
+repo_name: tshsu/python/homih
+
 
 theme:
     name: material
