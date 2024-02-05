@@ -1,0 +1,13 @@
+#!/usr/bin/env python3
+
+# Realtek Semiconductor Corp.
+#
+# Copyright 2020, CTC PSP Software
+
+# -*- coding: utf-8 -*-
+
+
+from homih.fact import factorial
+
+if __name__ == "__main__":
+    print(factorial(10))
