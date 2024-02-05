@@ -46,6 +46,7 @@ dependencies = [
     "pytest-cov",
     "mkdocs-material",
     "mkdocstrings[python]",
+    "pyinstaller",
 ]
 
 [tool.hatch.envs.default.scripts]
@@ -63,6 +64,7 @@ lint-check = [
 ]
 docs-serve = "mkdocs serve"
 docs-build = "mkdocs build"
+pyinstall = "pyinstaller -D ./scripts/homih -y --clean -p ./src"
 
 [build-system]
 requires = ["hatchling", "hatch-regex-commit"]
