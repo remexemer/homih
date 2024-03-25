@@ -65,7 +65,8 @@ lint-check = [
 docs-serve = "mkdocs serve"
 docs-build = "mkdocs build"
 pyinstall = "pyinstaller -D ./scripts/homih -y --clean -p ./src"
-pyextract = "pyinstxtractor-ng ./dist/homih/homih && decompyle3 homih_extracted/PYZ-00.pyz_extracted/homih/fact.pyc"
+pyextract = "pyinstxtractor-ng ./dist/homih/homih && decompyle3 homih_extracted/homih.pyc"
+pyarm = "pyarmor gen -O obfhomih --pack dist/homih/homih scripts/homih"
 
 [build-system]
 requires = ["hatchling", "hatch-regex-commit"]
