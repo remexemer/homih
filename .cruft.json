@@ -1,6 +1,6 @@
 {
   "template": "git@gitlab.com:tshsu/cookiecutter/cookiecutter-python.git",
-  "commit": "cc96b22b63f4c86c1601bf74224e897bc219c2aa",
+  "commit": "d4a0e23e03376191314af285bca682ebddb00f3e",
   "checkout": null,
   "context": {
     "cookiecutter": {
