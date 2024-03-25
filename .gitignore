@@ -111,3 +111,4 @@ ENV/
 .DS_Store
 
 homih_extracted/
+.pyarmor/
