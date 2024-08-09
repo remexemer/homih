@@ -32,7 +32,7 @@ pages:
     - hatch run docs-build
   artifacts:
     paths:
-      - public
+      - site
   rules:
     - if: $CI_COMMIT_BRANCH == $CI_DEFAULT_BRANCH
 
