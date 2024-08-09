@@ -33,6 +33,7 @@ pages:
   artifacts:
     paths:
       - site
+  publish: site
   rules:
     - if: $CI_COMMIT_BRANCH == $CI_DEFAULT_BRANCH
 
